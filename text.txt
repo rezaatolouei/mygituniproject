@@ -1,0 +1,6 @@
+README.md ijad krdim
++ 3 file text.txt, app.js, app.py
+k avl README v sps 3 file digr commit shodnd
+ps az on 2 file README v text.txt modified shodnd 
+k README drkhast koli proje ra shamel mishe v dr text.txt be jozeiyat miprdazim
+in 2 ra joda joda add v commit miknim 
