@@ -4,3 +4,8 @@ k avl README v sps 3 file digr commit shodnd
 ps az on 2 file README v text.txt modified shodnd 
 k README drkhast koli proje ra shamel mishe v dr text.txt be jozeiyat miprdazim
 in 2 ra joda joda add v commit miknim 
+az 3file 2tash ro delete krdim 
+commit krdim v push krdim 
+sabt taghirat jdid dr text.txt 
+add, commit, push
+v taamam(END)
